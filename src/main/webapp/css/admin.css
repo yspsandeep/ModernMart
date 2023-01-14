@@ -1,0 +1,37 @@
+.admin-options{
+    background-color: #FFE162!important;
+    border-radius: 10px!important;
+}
+.modal-options{
+    margin-bottom: 8vh;
+}
+
+.modal-hov:hover{
+    transform: scale(1.02);
+    opacity:.95;
+    transition-timing-function: ease-in;
+    transition: .3s;
+
+}
+
+.prod-det{
+    background-color: red;
+}
+
+.sec-row{
+    display: flex;
+    
+}
+
+.overide{
+    height: 230px;
+}
+
+.txtmar{
+    margin-top:15px;
+}
+
+.flexit{
+    display:flex;
+}
+

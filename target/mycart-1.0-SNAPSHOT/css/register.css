@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+body{
+    background-color: #39311D;
+    /*font-family: 'Roboto Condensed', sans-serif;*/
+}
+
+.clogin-logo{
+    margin-left: 1vw;
+    margin-top: 1.5vh;
+    width: 14vw;
+}
+.register-box{
+    width: 468px;
+    background-color: #ffd554;
+    border-radius: 20px;
+}
+
+.box-margin{
+    margin-left: 365px;
+    
+}
+
+.reg-btn{
+    background-color:#28a745;
+    color:white;
+    margin-right:12px
+}
+
+.reg-btn:hover{
+    background-color:#34c434;
+}
+
+.rst-btn{
+    background-color:#ff3c3c;
+    color:white;
+}
+
+.rst-btn:hover{
+    background-color:#ff0043;
+    color:white;
+    
+}
+

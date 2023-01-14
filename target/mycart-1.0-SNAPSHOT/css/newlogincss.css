@@ -1,0 +1,79 @@
+.card-body{
+    background-color: #fde056;
+    border-radius: 0px 0px 30px 30px;
+}
+
+.heading{
+    color: black;
+    font-weight: 600;
+        margin-left: 199px;
+    font-size: 37px;
+}
+
+.custom-bg{
+    background-color: #ff3600!important;
+}
+
+.custom-bg2{
+background-color:#39311D;
+/*border-bottom: 3px solid #e2e2e2;*/
+}
+
+.custom-bg3{
+background-color:#fdc056!important;
+border: 2px solid #fdc056;
+border-radius:30px 30px 30px 30px!important;
+   
+}
+.custom-bg4{
+    background-color:#fdc056!important;
+    border:2px solid #fde056;
+border-radius:30px 30px 30px 30px !important;
+}
+
+body{
+   background-color: #39311D;
+}
+
+.login-margin{
+margin-top: 1px; 
+}
+
+.clogin-logo{
+width: 14vw;
+margin-left: -4.9vw;
+}
+
+.reg-btn{
+    background-color:#28a745!important;
+    color:white!important;
+    margin-right:12px!important;
+}
+
+.reg-btn:hover{
+    background-color:#34c434!important;
+}
+
+.rst-btn{
+    background-color:#ff3c3c;
+    color:white;
+}
+
+.rst-btn:hover{
+    background-color:#ff0043;
+    color:white;
+    
+}
+.sign-up{
+   font-weight:600;
+   color:#132eb6;
+   font-size:20px;
+}
+
+.nav-link{
+   font-size:18px
+}
+
+.login-img{
+    margin-left:197px;
+}

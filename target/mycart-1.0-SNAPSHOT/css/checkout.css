@@ -1,0 +1,14 @@
+.line-color{
+    border-color: black!important;
+}
+
+.rus-btn{
+    background-color:#006de2;
+    color:white;
+}
+
+.rus-btn:hover{
+    background-color:#0089ff;
+    color:white;
+    
+}

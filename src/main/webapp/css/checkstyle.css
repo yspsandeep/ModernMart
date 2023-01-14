@@ -1,0 +1,37 @@
+.deliv{
+    display:flex;
+    background-color: rgb(255, 213, 0);
+    /* align-items: center; */
+    width: 600px;
+    flex-direction: column;
+    height: 200px;
+    border-radius: 20px;
+}
+
+.heading{
+    font-size: 30px;
+    margin-left: 186px;
+}
+
+.jsobj{
+    font-size: 40px;
+    margin-right: 10px;
+}
+
+.edate{
+    font-size: 30px;
+    display: flex;
+    align-items: space-around;
+
+}
+
+.grp{
+    margin-left: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.etxt{
+    margin-left: 50px;
+}
+
